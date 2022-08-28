@@ -63,6 +63,7 @@ nav {
     margin-left: 42px;
 }
 header {
+    align-items: center;
     padding: 10px;
     display: flex;
     justify-content: space-between;
